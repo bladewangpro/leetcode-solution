@@ -10,7 +10,7 @@ This repository is designed for storing our practice code.
 
 We have three pals in this group and each of us will have a folder to store our practice code. There are "Liwei", "Wuyekang" and "Wangtianyi" respectively. Here is the structure of our code repository:
 
-![image-20191027181904294](/home/blade/Documents/Leetcode/src/tools/structure.png)
+![image-20191027181904294](tools/structure.png)
 
 **Each folder should have a corresponding log, such as Python folder -- 'py_map', from those logs, 'run.py' can help us to store the information of each files**
 
