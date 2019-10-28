@@ -57,7 +57,7 @@ If you have more than one method to address this problem. please add the same an
 
    ```shell
    # our path is $dir/src/tools/
-   python run.py --search haha.py --log Wangtianyi/py_map
+   python run.py --search haha.py --log ../Wangtianyi/py_map
    ```
 
    
